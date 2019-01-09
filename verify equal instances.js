@@ -1,7 +1,7 @@
 // Verify there are equal instances of specified characters in a string
 
 // For example       XO(xoxojjjfjxo) returns true 
-//                   XO(xoo) returns false
+// But                  XO(xoo) returns false
 
 function XO(str) {
   // Replace characters with empty strings
